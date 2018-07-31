@@ -1,0 +1,108 @@
+p ,h4{
+	font-family: FreeMono, monospace;
+}
+#out{
+    border-radius: 1px;
+	width: 55%;
+	margin: auto;
+	height: 350px;
+     background-image: url(../img/admin/background.png);
+	padding: 50px;
+	margin-top: 30px;
+	box-shadow: 0px 0px 15px 1px;
+
+}
+#insid{
+	width: 90%;
+	margin: 20px;
+	text-align: center;
+    position: relative;
+}
+ h3{
+  border: 2px solid rgb(0, 107, 179);
+  font-size:  20px;
+  width: 20%;
+  background-color: rgb(0, 107, 179);
+  color: white;
+      border-radius: 5px;
+      margin-left: 40%;
+}
+a{
+  text-decoration: none;
+}
+#insid input {
+		font-size: 20px;
+		    border: 1px solid #ccc;
+		        border-radius: 4px;
+		        width: 30%;
+}
+#insid input[type=button]{
+	background-color: rgb(0, 107, 179);
+			        width: 25%;
+			        color: white;
+			      border-radius: 4px;
+			      border: 1px solid rgb(0, 107, 179);
+
+}
+#insid h5{
+	margin: 0px;
+	font-size: 20px;
+}
+#insid h4{
+	text-align: center;
+	color: rgb(242, 242, 242)
+;
+	font-size: 40px;
+	margin: 0px;
+
+}
+#insid p {
+	font-size: 30px;
+	display: inline-block;
+	color: white;
+}
+
+#permissions-b{
+	margin: auto;
+	width: 90%;
+	padding: 10%;
+
+}
+ #permissions-b a {
+ 	font-size: 25px;
+	color: black;
+      text-decoration: none;
+
+ }
+  #permissions-b p{
+    color: gray;
+  }
+
+ #permissions-b img{
+  	border-radius: 20px;
+  	margin-right: 7%;
+
+}
+
+			   .add,.edit,.delete{
+				 
+				 margin-bottom:60px;
+			 }
+			
+
+     
+             
+
+            #addi,#editi,#deletei  {
+           opacity: 1.0;
+           background-repeat: repeat-x;
+           border-style: solid;
+           border-width: 0px;
+         
+             }
+             #addi:hover, #editi:hover, #deletei:hover  {
+              opacity: 0.5;
+                  }
+			 
+     
+             

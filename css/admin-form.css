@@ -1,0 +1,67 @@
+#form{
+	width: 70%;
+	  background-image: url(../img/admin/background.png);
+	margin: 30px auto;
+	padding: 20px;
+    	text-align: center;
+
+}
+form {
+	width: 100%;
+	margin: auto;
+}
+h2{
+    color:#000000;
+    font-size: 30px;
+	font-weight:bold;
+    text-align: center;
+}
+h4{
+color: #000000;
+font-size: 25px;
+padding: 0px;
+text-align: justify;
+
+}
+#timg{
+  font-size: 10px;
+  overflow: scroll;
+  width: 0.9%;
+  height: 20px;
+  margin=0px;
+}
+
+
+
+input{
+	
+	    text-align: justify;
+		
+
+}
+#left1
+{
+	padding-left:0px;
+}
+
+ #search1
+ {
+	width: 100px;
+ }
+          #add_button{
+			background-color:black;
+          	text-align: center;
+          	width: 10%;
+		
+			margin-top:20px;
+			font-size: 20px;
+          }
+ #back_buttun{
+   margin-left: -80px;
+   margin-top:130px;
+   width: 10%;
+   font-size: 20px;
+   background-color: black;
+   text-align: center;
+
+}
